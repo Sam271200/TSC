@@ -1,0 +1,501 @@
+ID,Gender,Ever_Married,Age,Graduated,Profession,Work_Experience,Spending_Score,Family_Size,Car
+458989,Female,Yes,36,Yes,Engineer,0,Low,1,Mahindra Xylo D2 BSIV
+458994,Male,Yes,37,Yes,Healthcare,8,Average,4,Maruti Swift 1.3 VXi
+458996,Female,Yes,69,No,,0,Low,1,Ford Figo Aspire Facelift
+459000,Male,Yes,59,No,Executive,11,High,2,Chevrolet Tavera Neo 3 LS 7 C BSIII
+459001,Female,No,19,No,Marketing,,Low,4,Chevrolet Tavera Neo 3 LS 7 C BSIII
+459003,Male,Yes,47,Yes,Doctor,0,High,5,Maruti Alto LXi
+459005,Male,Yes,61,Yes,Doctor,5,Low,3,Mahindra Scorpio S7 140 BSIV
+459008,Female,Yes,47,Yes,Artist,1,Average,3,Ford Fiesta Classic 1.4 SXI Duratorq
+459013,Male,Yes,50,Yes,Artist,2,Average,4,Hyundai EON D Lite Plus
+459014,Male,No,19,No,Healthcare,0,Low,4,Audi Q5 2.0 TDI
+459015,Male,No,22,No,Healthcare,0,Low,3,Volkswagen Polo 1.5 TDI Highline
+459016,Female,No,22,No,Healthcare,0,Low,6,Skoda Superb Ambition 2.0 TDI CR AT
+459024,Male,Yes,50,Yes,Artist,1,Average,5,Maruti Wagon R DUO LPG
+459026,Male,No,27,No,Healthcare,8,Low,3,Maruti Zen LXi BSII
+459032,Male,No,18,No,Doctor,0,Low,3,Chevrolet Sail Hatchback LS ABS
+459033,Female,Yes,61,Yes,Artist,0,Low,1,Hyundai Grand i10 1.2 CRDi Asta
+459036,Female,Yes,20,Yes,Lawyer,1,Average,3,Maruti SX4 Celebration Diesel
+459039,Male,Yes,45,Yes,Artist,1,Average,2,Datsun GO A
+459041,Male,Yes,55,Yes,Artist,8,Low,1,Hyundai i20 1.2 Sportz
+459045,Female,Yes,88,Yes,Lawyer,1,Average,4,Maruti Omni MPI STD BSIV
+459056,Male,Yes,63,No,Executive,,High,3,Maruti Swift Glam
+459057,Male,Yes,69,No,Lawyer,,High,,Toyota Corolla Altis Diesel D4DG
+459058,Male,No,42,Yes,Artist,0,Low,4,Hyundai Xcent 1.2 Kappa S
+459059,Male,Yes,79,No,Executive,,High,2,Mahindra Scorpio 1.99 S6 Plus
+459061,Female,Yes,35,Yes,Healthcare,9,High,3,Hyundai Creta 1.4 CRDi S
+459064,Male,Yes,27,No,Executive,5,High,4,Chevrolet Beat Diesel
+459065,Male,Yes,52,Yes,Engineer,,Low,2,Maruti Alto LXi BSIII
+459074,Female,No,29,Yes,Healthcare,0,Low,4,Volkswagen Vento Diesel Highline
+459077,Female,Yes,79,No,Lawyer,1,High,2,BMW 3 Series 320d Sport
+459079,Male,Yes,87,Yes,Lawyer,,High,2,Maruti Swift VXI BSIII
+459080,Male,Yes,89,No,Lawyer,1,Low,2,Mercedes-Benz New C-Class C 220 CDI BE Avantgare
+459083,Male,Yes,63,Yes,Artist,9,Average,3,Maruti 800 Std
+459090,Male,No,31,No,Artist,1,Low,2,Maruti 800 AC
+459091,Male,Yes,72,Yes,Artist,1,Average,6,Hyundai Creta 1.4 CRDi S
+459093,Female,Yes,41,Yes,Doctor,9,Average,2,Hyundai i20 Magna 1.4 CRDi (Diesel)
+459100,Female,No,61,Yes,Artist,11,Low,1,Honda City i DTEC VX
+459106,Male,Yes,62,Yes,Artist,0,Low,2,Hyundai EON D Lite Plus
+459114,Male,Yes,56,Yes,Artist,1,Average,2,Hyundai Santro LP zipPlus
+459116,Male,Yes,60,Yes,Artist,2,Average,5,Hyundai Grand i10 1.2 CRDi Asta
+459117,Male,Yes,68,Yes,Artist,0,High,2,Chevrolet Beat LT
+459118,Male,No,19,No,Healthcare,,Low,8,Toyota Etios VD
+459119,Male,Yes,57,Yes,Executive,8,High,3,Hyundai Grand i10 Sportz
+459120,Male,No,19,No,Healthcare,5,Low,5,Chevrolet Tavera Neo 3 10 Seats BSIV
+459121,Female,Yes,51,Yes,Artist,3,Average,6,Maruti Swift VDI
+459123,Female,Yes,86,No,Artist,1,High,2,Audi Q5 2.0 TDI
+459130,Female,Yes,74,No,Lawyer,1,High,2,Maruti Ertiga VXI
+459132,Male,No,23,No,Entertainment,6,Low,2,Mahindra Scorpio S7 140 BSIV
+459136,Male,Yes,47,Yes,Artist,0,Average,2,Hyundai Santro Magna BSIV
+459140,Female,No,19,No,Healthcare,7,Low,6,Volkswagen Vento Diesel Highline
+459143,Male,Yes,50,No,Artist,0,High,4,Hyundai EON LPG Magna Plus
+459144,Male,Yes,80,Yes,Lawyer,,High,2,Hyundai Santro LP zipPlus
+459145,Male,Yes,78,No,Lawyer,,Low,1,Maruti Wagon R LXI Minor
+459150,Female,No,48,Yes,Doctor,0,Low,1,Maruti Wagon R DUO LPG
+459160,Male,Yes,70,Yes,Doctor,1,Average,2,Hyundai i20 Sportz Petrol
+459161,Male,Yes,50,Yes,Executive,3,High,5,Hyundai i10 Sportz 1.1L
+459162,Female,Yes,83,Yes,Lawyer,0,High,2,Mahindra XUV500 W6 2WD
+459163,Male,No,35,Yes,Entertainment,0,Low,1,Chevrolet Sail Hatchback LS ABS
+459167,Female,No,36,Yes,Artist,0,Low,2,Tata Indica LSI
+459170,Female,No,35,Yes,Artist,1,Low,1,Ford Endeavour 4x4 XLT
+459171,Male,Yes,35,Yes,Artist,0,Average,2,Jaguar XJ 5.0 L V8 Supercharged
+459172,Male,No,18,No,Healthcare,3,Low,3,Renault KWID 1.0 RXT Optional
+459175,Female,Yes,73,Yes,Artist,1,Average,2,Audi Q5 2.0 TDI
+459181,Male,Yes,62,No,Artist,1,High,3,Tata Nano STD
+459182,Female,Yes,46,Yes,Artist,1,Average,2,Jaguar XJ 5.0 L V8 Supercharged
+459184,Male,Yes,43,Yes,Entertainment,0,Low,4,Chevrolet Sail Hatchback LS ABS
+459185,Female,No,32,Yes,Entertainment,7,Low,1,Maruti Swift 1.3 VXi
+459193,Male,No,39,Yes,Artist,0,Low,1,Hyundai Santro LP zipPlus
+459194,Female,Yes,89,Yes,Lawyer,0,High,2,Maruti Swift 1.3 VXi
+459196,Female,No,18,No,Healthcare,0,Low,3,Tata Indica Vista TDI LS
+459208,Female,Yes,57,Yes,Artist,0,High,2,#N/A
+459209,Female,No,18,No,Entertainment,0,Low,4,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV
+459210,Female,Yes,71,Yes,Artist,1,High,2,Maruti Alto K10 VXI Airbag
+459212,Female,Yes,69,Yes,Artist,0,Average,2,Maruti SX4 Celebration Diesel
+459213,Female,No,42,Yes,Healthcare,0,Low,4,Ford Ecosport 1.5 DV5 MT Titanium
+459216,Female,No,36,Yes,Artist,0,Low,2,Hyundai Elite i20 Asta Option BSIV
+459220,Female,Yes,80,Yes,Lawyer,1,High,2,Tata Indica LSI
+459221,Male,Yes,69,No,Entertainment,,Low,1,Hyundai Elite i20 Sportz Plus Dual Tone BSIV
+459222,Female,Yes,67,Yes,Artist,0,Average,3,Hyundai i10 Sportz 1.2
+459223,Female,Yes,47,Yes,Doctor,1,Average,4,Tata Tiago 1.2 Revotron XZ
+459224,Female,Yes,49,Yes,Artist,0,Average,2,Ford Figo Diesel ZXI
+459227,Female,Yes,32,No,Engineer,9,Low,4,Hyundai Santro GLS I - Euro I
+459229,Female,Yes,65,Yes,Lawyer,1,Average,4,Maruti Alto LXi
+459236,Female,Yes,78,No,Lawyer,0,High,2,Toyota Innova 2.5 GX (Diesel) 8 Seater
+459237,Male,No,33,Yes,Artist,1,Low,6,Chevrolet Tavera Neo 3 10 Seats BSIV
+459244,Male,Yes,48,Yes,Artist,1,Low,1,Chevrolet Tavera Neo LS B3 - 7(C) seats BSIII
+459247,Male,Yes,58,Yes,Executive,1,Average,5,Honda Amaze S i-Vtech
+459258,Female,Yes,83,Yes,Lawyer,1,High,,Jeep Compass 1.4 Sport Plus BSIV
+459263,Female,No,30,No,Healthcare,9,Low,4,Mahindra Xylo D2 BSIV
+459264,Female,No,35,Yes,Artist,0,Low,2,Maruti Wagon R DUO LPG
+459266,Male,No,32,Yes,Healthcare,6,Low,5,Datsun RediGO T Option
+459270,Male,Yes,69,Yes,Homemaker,1,High,2,Honda Brio 1.2 E MT
+459284,Female,Yes,71,Yes,Lawyer,1,High,2,Ford Figo Diesel ZXI
+459287,Male,No,43,Yes,Lawyer,0,Low,1,Renault Duster 85PS Diesel RxL Optional
+459288,Male,Yes,37,Yes,Artist,0,Low,2,Volvo V40 D3 R Design
+459289,Male,No,42,Yes,Doctor,0,Low,1,Hyundai Santro Xing GLS
+459290,Female,Yes,70,Yes,Doctor,1,Average,2,Datsun RediGO T Option
+459292,Male,No,46,Yes,Artist,0,Low,2,Hyundai EON Era Plus
+459293,Male,No,21,No,Healthcare,,Low,,Ford Fiesta Classic 1.4 SXI Duratorq
+459296,Male,Yes,70,Yes,Artist,0,Average,2,Hyundai Elite i20 Sportz Plus Dual Tone BSIV
+459300,Female,Yes,61,Yes,Artist,1,Low,,Mahindra TUV 300 T4 Plus
+459307,Male,Yes,60,Yes,Entertainment,1,Low,1,Chevrolet Sail Hatchback LS ABS
+459310,Male,No,37,Yes,Entertainment,0,Low,2,Mercedes-Benz E-Class Exclusive E 200 BSIV
+459316,Male,Yes,30,Yes,Healthcare,1,Low,2,Maruti Swift 1.3 VXi
+459318,Female,No,32,Yes,Engineer,1,Low,3,Toyota Etios Liva GD
+459320,Male,Yes,26,Yes,Executive,0,Low,3,Chevrolet Sail Hatchback LS ABS
+459322,Male,No,42,Yes,Marketing,0,Low,1,Maruti Swift VXI BSIV
+459323,Female,No,18,No,Doctor,,Low,,Toyota Innova 2.5 GX (Diesel) 8 Seater
+459338,Male,Yes,80,No,Executive,,Low,,Hyundai Verna 1.6 SX
+459339,Male,Yes,29,Yes,Healthcare,8,High,2,Mercedes-Benz New C-Class C 220 CDI Avantgarde
+459344,Female,Yes,88,Yes,Artist,1,High,2,Volkswagen Polo 1.5 TDI Highline
+459347,Male,Yes,70,Yes,Lawyer,1,Low,1,Mahindra Xylo E4 BS III
+459349,Female,Yes,50,Yes,Artist,1,High,4,Maruti Swift 1.3 VXi
+459352,Male,Yes,43,Yes,Doctor,4,Average,4,Jaguar XJ 5.0 L V8 Supercharged
+459353,Male,Yes,51,Yes,Artist,6,Average,2,Toyota Corolla Altis 1.8 VL CVT
+459354,Female,Yes,50,Yes,Artist,,High,3,Maruti Zen Estilo VXI BSIV
+459355,Female,Yes,74,No,Homemaker,,Low,1,Ford Figo Diesel Celebration Edition
+459360,Female,No,29,Yes,Healthcare,,Low,3,Chevrolet Beat Diesel
+459361,Female,No,32,Yes,Engineer,,Low,2,Renault KWID RXT
+459362,Male,Yes,60,No,Executive,0,Low,2,Hyundai i10 Sportz 1.1L
+459363,Male,No,46,Yes,Artist,2,Low,1,Maruti Baleno Sigma 1.2
+459364,Female,Yes,81,Yes,Marketing,0,Low,2,Tata Indica Vista Terra 1.4 TDI
+459369,Male,Yes,41,No,Engineer,,Average,7,Ford Figo Diesel ZXI
+459375,Male,Yes,22,No,Executive,0,High,4,Toyota Corolla Altis Diesel D4DG
+459377,Male,Yes,37,Yes,Artist,0,Average,3,Honda Civic 1.8 V AT
+459383,Male,Yes,43,No,Engineer,0,Low,1,Chevrolet Tavera Neo 3 LS 7 C BSIII
+459384,Male,Yes,50,Yes,Artist,1,Average,3,Toyota Corolla Altis 1.8 VL CVT
+459385,Female,Yes,35,Yes,Artist,1,Average,2,Chevrolet Beat Diesel
+459386,Male,Yes,65,No,Lawyer,1,High,2,Maruti Baleno Delta 1.2
+459391,Female,No,41,Yes,Engineer,0,Low,4,Hyundai Verna 1.6 VTVT AT S Option
+459394,Male,No,28,No,Entertainment,8,Low,2,Maruti Swift 1.3 VXi
+459397,Male,Yes,55,Yes,Artist,4,Average,2,Toyota Etios Liva GD
+459398,Female,Yes,58,No,Lawyer,,High,2,Maruti Vitara Brezza VDi
+459401,Male,No,28,No,Healthcare,1,Low,3,Maruti 800 Std BSII
+459403,Male,Yes,48,Yes,Artist,,Average,4,Maruti Alto 800 LXI
+459405,Female,Yes,78,No,Doctor,1,High,2,Maruti Swift 1.3 VXi
+459407,Female,No,35,Yes,Doctor,1,Low,3,Hyundai Santro Magna BSIV
+459409,Female,Yes,76,Yes,Lawyer,0,High,2,Toyota Corolla Altis Diesel D4DG
+459410,Female,Yes,88,Yes,Lawyer,1,High,2,Hyundai Grand i10 CRDi Magna
+459412,Male,Yes,61,Yes,,1,Average,3,Audi Q5 2.0 TDI
+459413,Female,Yes,79,Yes,Artist,,High,2,Hyundai Santro Xing XL eRLX Euro III
+459415,Male,No,30,No,Doctor,0,Low,4,Volkswagen Vento Celeste 1.5 TDI Highline AT
+459418,Male,Yes,69,No,Executive,0,High,2,Mahindra Bolero DI DX 7 Seater
+459419,Male,Yes,65,Yes,Doctor,1,Average,2,Mercedes-Benz New C-Class C 220 CDI BE Avantgare
+459420,Female,Yes,70,Yes,Lawyer,1,Low,2,Chevrolet Sail 1.2 LT ABS
+459421,Male,Yes,32,No,Healthcare,0,Average,4,Hyundai EON LPG Magna Plus
+459422,Male,Yes,46,Yes,Entertainment,,Low,4,Tata Sumo SE Plus BSIII
+459423,Male,No,21,No,Healthcare,8,Low,5,Hyundai i10 Era 1.1
+459424,Male,Yes,47,Yes,Doctor,,Low,3,Datsun GO Plus T Option Petrol
+459428,Female,No,39,No,Marketing,0,Low,2,Maruti Ciaz 1.4 Delta
+459432,Male,Yes,85,Yes,Lawyer,0,Low,3,Mercedes-Benz New C-Class C 220 CDI BE Avantgare
+459436,Female,No,66,Yes,Artist,0,Low,2,Maruti Baleno Vxi
+459439,Female,Yes,50,Yes,Artist,1,Average,2,Toyota Innova 2.5 VX (Diesel) 8 Seater
+459445,Female,Yes,42,Yes,Artist,0,Average,3,Toyota Etios Liva GD
+459447,Male,Yes,53,Yes,Artist,9,Low,1,Chevrolet Tavera Neo 2 LS B4 7 Str BSIII
+459449,Male,Yes,37,Yes,Artist,,Low,2,BMW 7 Series 730Ld
+459451,Female,Yes,45,Yes,Artist,1,Low,2,Maruti Wagon R VXI
+459456,Female,No,66,No,Lawyer,,Low,1,Hyundai EON D Lite Plus
+459458,Male,No,33,No,Marketing,,Low,,Maruti Alto LXi
+459459,Male,Yes,40,Yes,Artist,4,Low,1,Hyundai Grand i10 1.2 CRDi Asta
+459461,Female,Yes,35,Yes,Artist,1,Low,1,Maruti Alto K10 VXI
+459464,Male,No,27,Yes,Artist,,Low,2,Chevrolet Beat Diesel
+459466,Female,Yes,48,Yes,Artist,0,Average,3,Hyundai Xcent 1.2 Kappa S
+459467,Female,Yes,56,Yes,Artist,0,Average,2,Ford Endeavour 4x4 XLT
+459469,Male,Yes,25,Yes,Healthcare,,Low,6,Hyundai i20 Asta (o)
+459471,Female,No,30,No,Artist,,Low,8,Hyundai i20 Magna 1.4 CRDi (Diesel)
+459480,Female,Yes,46,Yes,Entertainment,7,Low,3,Skoda Rapid 1.5 TDI AT Style BSIV
+459481,Male,Yes,49,No,Lawyer,0,Low,2,Maruti Ertiga SHVS ZDI Plus
+459482,Male,Yes,72,No,Marketing,1,Low,4,Skoda Rapid 1.5 TDI AT Style BSIV
+459485,Female,Yes,79,Yes,Lawyer,,High,2,Tata Indica DLX
+459496,Female,No,35,Yes,Artist,,Low,3,Honda Brio S Option AT
+459497,Female,Yes,77,Yes,Lawyer,0,Low,1,Mahindra Scorpio 1.99 S10
+459499,Female,Yes,79,No,Lawyer,,High,2,Hyundai Santro Xing GLS Audio LPG
+459503,Male,Yes,42,Yes,Healthcare,6,High,4,Hyundai i10 Sportz 1.1L
+459505,Female,No,42,Yes,Engineer,,Low,1,Hyundai i20 1.4 Sportz
+459507,Male,Yes,67,No,Lawyer,,High,2,Fiat Avventura Urban Cross 1.3 Multijet Emotion
+459509,Male,No,26,Yes,Healthcare,1,Low,1,Maruti Ciaz VXi Plus
+459512,Male,Yes,67,Yes,Lawyer,1,High,2,Hyundai EON Era Plus
+459515,Male,Yes,55,Yes,Engineer,1,Low,1,Honda Accord 2.4 MT
+459516,Female,,56,Yes,Artist,,Average,2,Maruti Swift 1.3 VXi
+459518,Male,Yes,63,,,,Average,4,Tata Tigor 1.2 Revotron XT
+459535,Male,Yes,46,Yes,Artist,8,Average,2,Maruti Wagon R AMT VXI
+459536,Male,Yes,32,Yes,Healthcare,7,Low,2,Maruti Swift VXI BSIII
+459538,Female,No,49,Yes,Homemaker,13,Low,1,Hyundai i20 Asta 1.2
+459541,Male,Yes,59,Yes,Artist,1,High,2,Hyundai i20 2015-2017 Sportz Option 1.4 CRDi
+459549,Male,No,22,No,Healthcare,8,Low,5,#N/A
+459555,Female,No,28,Yes,Artist,8,Low,1,Renault KWID RXT Optional
+459558,Male,No,28,Yes,Entertainment,1,Low,3,Ford Figo Diesel ZXI
+459564,Male,Yes,75,Yes,Lawyer,2,Low,1,Toyota Innova 2.5 V Diesel 7-seater
+459566,Female,Yes,37,Yes,Artist,13,Low,2,Tata Indica Vista TDI LS
+459567,Male,Yes,50,Yes,Doctor,0,Average,2,Volkswagen Polo 1.5 TDI Highline
+459571,Female,Yes,50,Yes,Executive,1,High,4,Tata Indigo CS Emax CNG GLX
+459576,Female,Yes,88,No,Lawyer,,Low,,Hyundai Grand i10 CRDi Magna
+459579,Female,Yes,35,Yes,Artist,3,Average,5,Fiat Avventura MULTIJET Emotion
+459581,Female,No,35,No,,,Low,,Maruti Zen Estilo VXI BSIV
+459582,Male,Yes,31,No,Entertainment,,Average,3,Hyundai Elite i20 Diesel Era
+459583,Male,Yes,46,Yes,Artist,0,Low,1,Maruti Omni E MPI STD BS IV
+459585,Female,Yes,50,Yes,Artist,1,Average,4,Maruti Alto 800 LXI
+459587,Female,No,33,Yes,Artist,7,Low,3,Mercedes-Benz E-Class E 200 CGI Elegance
+459588,Male,Yes,49,Yes,Artist,0,Low,1,Chevrolet Beat Diesel
+459591,Male,Yes,52,Yes,Artist,1,Average,3,Renault Duster 110PS Diesel RxL
+459592,Male,No,25,No,Healthcare,0,Low,3,Maruti Ertiga VXI
+459594,Female,Yes,41,Yes,Artist,6,Low,1,Mercedes-Benz S-Class S 350d Connoisseurs Edition
+459597,Female,Yes,68,Yes,Artist,0,High,2,Mahindra Bolero SLX
+459603,Female,Yes,79,No,Lawyer,2,High,2,Renault Duster 110PS Diesel RxL
+459607,Male,Yes,40,Yes,Entertainment,5,Average,5,Toyota Innova 2.5 G (Diesel) 8 Seater BS IV
+459608,Female,No,62,Yes,Doctor,,Low,1,Maruti Wagon R VXI BS IV
+459612,Male,No,21,No,Healthcare,,Low,2,Toyota Corolla Altis 1.8 VL CVT
+459616,Female,No,20,No,Healthcare,,Low,4,Volkswagen Vento Diesel Highline
+459617,Male,No,28,Yes,Entertainment,1,Low,5,Tata Indigo CS Emax CNG GLX
+459618,Male,Yes,57,Yes,Doctor,0,Average,2,Hyundai Xcent 1.2 Kappa S
+459621,Female,No,25,No,Healthcare,8,Low,,Renault Duster 110PS Diesel RxL
+459625,Female,Yes,63,No,Engineer,8,Low,1,Hyundai EON LPG Magna Plus
+459626,Female,Yes,26,No,Entertainment,1,Low,3,Mahindra Scorpio S11 BSIV
+459632,Female,Yes,50,No,Marketing,0,High,3,Renault KWID RXT Optional
+459644,Female,No,30,No,Marketing,9,Low,4,Maruti Swift 1.3 VXi
+459652,Female,No,26,No,Engineer,,Low,4,Hyundai Santro Era
+459658,Male,Yes,61,Yes,Artist,1,Average,3,Maruti Swift Dzire ZDI
+459664,Male,No,42,Yes,Artist,3,Low,1,Chevrolet Beat Diesel
+459665,Male,Yes,88,Yes,Artist,4,Low,2,Chevrolet Beat LT
+459672,Male,Yes,45,No,Artist,3,Average,3,Volkswagen Polo 1.5 TDI Highline
+459673,Female,Yes,86,Yes,Lawyer,1,Low,1,Hyundai i20 1.2 Asta
+459678,Male,No,18,No,Healthcare,1,Low,5,Maruti Eeco 5 STR With AC Plus HTR CNG
+459680,Male,No,37,Yes,Entertainment,,Low,1,Hyundai EON Era Plus
+459686,Male,Yes,46,Yes,Artist,1,Low,1,Hyundai Elite i20 Sportz Plus Dual Tone BSIV
+459691,Male,Yes,58,No,Artist,,Average,2,Toyota Corolla Altis Diesel D4DG
+459692,Female,Yes,72,Yes,Lawyer,8,High,2,Toyota Corolla Altis Diesel D4DG
+459693,Female,Yes,50,Yes,Artist,0,High,3,Honda City i DTEC VX
+459699,Female,,56,Yes,Engineer,8,Average,3,Hyundai Santro GLS I - Euro I
+459701,Male,No,46,No,Artist,3,Low,3,Tata Indica DLX
+459710,Male,Yes,57,Yes,Artist,,Low,1,Honda BR-V i-VTEC S MT
+459711,Male,Yes,42,No,Executive,9,High,6,Maruti Zen VXI
+459712,Male,No,20,No,Healthcare,,Low,4,Hyundai Santro Xing GL Plus
+459713,Male,No,19,No,Healthcare,,Low,3,Hyundai EON D Lite Plus
+459715,Male,No,19,No,Healthcare,4,Low,4,Hyundai i20 Active 1.2 S
+459718,Male,Yes,68,Yes,Executive,1,Low,1,Hyundai EON LPG Magna Plus
+459725,Female,Yes,40,Yes,Artist,0,Low,2,Hyundai Grand i10 Sportz
+459727,Male,Yes,82,No,Lawyer,,High,2,Tata Bolt Quadrajet XE
+459740,Female,No,23,No,Healthcare,1,Low,3,Maruti Alto 800 LXI
+459742,Female,Yes,84,No,Lawyer,1,High,2,Maruti Baleno Alpha 1.3
+459745,Male,Yes,51,No,Artist,0,Low,4,Maruti Zen Estilo VXI BSIV
+459746,Male,,59,Yes,Artist,1,Average,2,Ford Endeavour 4x4 XLT
+459747,Female,Yes,41,Yes,Artist,1,Average,5,Maruti Omni MPI STD BSIV
+459748,Male,Yes,51,No,Executive,1,High,2,Mercedes-Benz New C-Class C 220 CDI BE Avantgare
+459755,Female,Yes,62,No,Artist,,Average,3,Tata Sumo GX TC 7 Str BSIII
+459756,Female,Yes,62,No,Lawyer,1,High,4,Renault KWID RXT Optional
+459760,Female,Yes,38,Yes,Artist,8,Low,1,Volkswagen Vento Diesel Highline
+459763,Male,No,18,No,Artist,,Low,4,Hyundai Elite i20 Sportz Plus Dual Tone BSIV
+459767,Male,No,22,No,Healthcare,3,Low,4,Volkswagen Polo Petrol Comfortline 1.2L
+459771,Female,,30,Yes,Doctor,0,Low,3,Mahindra Bolero SLX 2WD BSIII
+459779,Female,Yes,62,Yes,Entertainment,1,Low,1,Maruti Swift 1.3 VXi
+459780,Female,No,43,No,Entertainment,1,Low,3,Maruti Alto LXi BSIII
+459785,Female,No,32,Yes,Engineer,,Low,1,Mercedes-Benz E-Class E 200 CGI Elegance
+459793,Male,Yes,37,Yes,Artist,1,High,,Hyundai EON Magna Plus
+459795,Male,No,48,Yes,Artist,1,Low,1,Chevrolet Beat Diesel
+459801,Female,No,31,Yes,Engineer,4,Low,2,Chevrolet Beat Diesel
+459804,Male,Yes,46,No,Artist,4,High,4,Tata Indica Vista Terra 1.4 TDI
+459806,Female,Yes,49,No,Engineer,1,Average,4,Audi Q5 2.0 TDI
+459808,Male,Yes,43,No,Doctor,,Average,4,Mahindra Scorpio REV 116
+459815,Male,No,42,Yes,Artist,8,Low,1,Hyundai Verna CRDi
+459816,Male,Yes,37,Yes,Doctor,,Low,2,Renault Duster 85PS Diesel RxL Optional
+459819,Male,Yes,72,Yes,Entertainment,,High,2,Chevrolet Sail 1.2 Base
+459821,Male,,71,No,Executive,,High,1,Maruti Eeco 7 Seater Standard BSIV
+459822,Female,No,39,Yes,Engineer,1,Low,1,Chevrolet Sail Hatchback LS ABS
+459825,Male,No,20,No,Healthcare,0,Low,5,Datsun GO A
+459827,Female,No,26,No,,,Low,1,Hyundai i20 Asta 1.2
+459832,Male,Yes,72,Yes,Executive,1,Low,1,Jeep Compass 1.4 Sport Plus BSIV
+459845,Male,Yes,70,Yes,Healthcare,0,Low,1,Volkswagen Vento Celeste 1.5 TDI Highline AT
+459851,Male,No,45,Yes,Artist,2,Low,1,Maruti Omni E MPI STD BS IV
+459853,Male,No,33,No,Executive,7,Low,5,Maruti Swift VDI BSIV
+459856,Male,Yes,50,No,Entertainment,0,Average,3,Ford Endeavour Titanium 4X2
+459857,Male,No,31,Yes,Entertainment,6,Low,1,Hyundai Santro Xing GL Plus
+459861,Female,Yes,74,No,Lawyer,1,High,2,Datsun GO A
+459864,Female,Yes,68,No,Artist,,High,2,Maruti Swift 1.3 VXi
+459866,Female,No,49,Yes,Artist,,Low,1,Maruti Wagon R VXI
+459867,Male,Yes,49,Yes,Marketing,0,High,2,Ford Ecosport 1.5 DV5 MT Titanium
+459869,Female,No,18,No,Healthcare,1,Low,3,Hyundai i20 Active 1.2 S
+459871,Female,Yes,85,No,Entertainment,2,Average,2,Renault Duster 85PS Diesel RxE
+459885,Female,No,38,Yes,Entertainment,,Low,4,Renault KWID RXT Optional
+459886,Male,Yes,28,No,Artist,0,Low,4,Toyota Innova Crysta 2.4 VX MT
+459887,Male,Yes,46,No,Artist,3,Average,2,Hyundai i20 Sportz 1.4 CRDi
+459889,Male,Yes,59,Yes,Homemaker,9,Average,3,Ford Ecosport 1.5 DV5 MT Titanium
+459897,Female,Yes,56,Yes,Artist,0,Low,2,Maruti Omni E MPI STD BS IV
+459909,Male,Yes,69,Yes,Artist,0,Low,1,Ford Fiesta Classic 1.4 SXI Duratorq
+459910,Male,Yes,66,Yes,Artist,0,Low,2,Renault KWID RXT
+459911,Male,No,18,No,Healthcare,4,Low,6,Tata Indigo Grand Petrol
+459914,Male,No,36,Yes,Artist,4,Low,1,Maruti Alto 800 LXI
+459923,Male,No,31,Yes,Marketing,1,Low,2,Audi Q5 2.0 TDI
+459925,Male,Yes,67,No,Executive,1,High,2,Maruti Eeco 7 Seater Standard BSIV
+459937,Female,No,39,Yes,Artist,7,Low,1,Maruti Ciaz VXi Plus
+459943,Male,No,42,Yes,Entertainment,4,Low,3,Chevrolet Beat Diesel
+459945,Male,Yes,50,Yes,Artist,0,Low,2,Hyundai EON D Lite Plus
+459946,Female,Yes,37,Yes,Artist,0,Average,2,Maruti Swift VVT VXI
+459949,Female,No,59,Yes,Artist,0,Low,1,Maruti Alto LX BSIII
+459953,Male,Yes,50,Yes,Artist,8,Low,2,Toyota Corolla Altis Diesel D4DG
+459961,Male,Yes,48,Yes,Artist,8,Low,3,Maruti Swift VVT VXI
+459962,Male,Yes,55,Yes,Artist,9,Low,1,Tata Zest Quadrajet 1.3 75PS XE
+459966,Female,No,33,Yes,Doctor,1,Low,3,Fiat Avventura Urban Cross 1.3 Multijet Emotion
+459968,Male,No,38,Yes,Artist,13,Low,1,Jeep Compass 1.4 Sport Plus BSIV
+459970,Male,No,43,Yes,Artist,0,Low,2,Honda City i DTEC V
+459973,Female,No,53,Yes,Artist,0,Low,2,Mahindra XUV500 W6 2WD
+459974,Male,No,37,Yes,Entertainment,0,Low,1,Volkswagen Polo 1.5 TDI Highline
+459975,Female,No,36,Yes,Artist,5,Low,1,Maruti Swift Dzire VDI Optional
+459981,Male,No,36,Yes,Artist,5,Low,1,Hyundai i20 Asta (o)
+459986,Male,Yes,62,Yes,Artist,1,Low,1,Mahindra Scorpio LX
+459995,Female,No,38,No,Artist,2,Low,2,Chevrolet Tavera Neo 2 LS B4 7 Str BSIII
+459996,Male,No,55,Yes,Entertainment,1,Low,1,Datsun GO Plus T Option Petrol
+459998,Male,Yes,60,No,Entertainment,1,Average,2,Maruti Vitara Brezza ZDi Plus
+460004,Female,Yes,36,Yes,Entertainment,7,Average,2,Hyundai Santro Magna BSIV
+460006,Male,No,30,No,Entertainment,5,Low,9,Maruti Swift Dzire VDI Optional
+460014,Female,No,66,No,Entertainment,4,Low,3,Chevrolet Sail Hatchback LS ABS
+460023,Male,Yes,45,Yes,Entertainment,1,Low,1,Hyundai Grand i10 Sportz
+460027,Female,No,40,Yes,Entertainment,6,Low,,Datsun GO A
+460033,Female,,45,Yes,Entertainment,5,Low,3,Maruti Swift 1.3 VXi
+460036,Male,Yes,41,Yes,,2,Low,1,Hyundai Grand i10 Sportz
+460040,Female,Yes,62,Yes,Homemaker,4,Low,1,Renault Duster 85PS Diesel RxL Optional
+460045,Male,Yes,61,Yes,Artist,1,Low,2,Tata Indigo Grand Petrol
+460046,Female,Yes,50,Yes,Artist,4,Low,2,Honda Brio E MT
+460050,Male,Yes,53,Yes,Entertainment,3,Low,2,Tata Indigo Grand Petrol
+460051,Male,No,39,Yes,Artist,7,Low,1,Toyota Innova 2.5 GX (Diesel) 8 Seater
+460052,Female,No,86,Yes,Lawyer,0,Low,1,Ford Endeavour 4x4 XLT
+460058,Male,Yes,50,Yes,Artist,1,Low,1,Maruti 800 Std BSII
+460059,Female,No,46,No,Entertainment,4,Low,,Mercedes-Benz E-Class Exclusive E 200 BSIV
+460061,Male,No,52,Yes,Marketing,0,Low,1,Hyundai Verna 1.6 SX
+460066,Female,No,45,No,Marketing,0,Low,1,Maruti Vitara Brezza ZDi Plus
+460068,Female,No,37,Yes,Artist,9,Low,1,Hyundai Santro Xing GLS
+460073,Female,Yes,36,Yes,Engineer,3,Low,1,Honda City 1.5 EXI
+460075,Female,No,25,Yes,Artist,,Low,1,Tata Indica Vista Terra 1.4 TDI
+460079,Female,No,40,No,Doctor,1,Low,1,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV
+460081,Male,Yes,41,Yes,Artist,11,High,2,Tata New Safari DICOR 2.2 EX 4x2
+460088,Female,Yes,25,Yes,Homemaker,,High,2,Hyundai Santro Xing GL Plus
+460090,Male,Yes,80,No,Lawyer,4,Average,2,Chevrolet Tavera Neo 3 LS 7 C BSIII
+460093,Female,No,46,Yes,Artist,3,Low,1,Hyundai EON Magna Plus
+460095,Female,Yes,81,Yes,Lawyer,1,Low,1,Chevrolet Sail 1.2 Base
+460097,Male,,40,Yes,Artist,0,Low,2,Ford Endeavour 2.5L 4X2 MT
+460099,Male,No,49,Yes,,1,Low,1,Ford Endeavour Titanium 4X2
+460101,Female,No,26,Yes,Healthcare,8,Low,3,Maruti Omni MPI STD BSIV
+460103,Male,No,26,Yes,Artist,1,Low,1,Hyundai Santro Xing XL eRLX Euro III
+460105,Female,No,47,Yes,Artist,0,Low,1,Maruti 800 AC BSIII
+460106,Female,Yes,71,Yes,Entertainment,0,Low,,Renault KWID RXT Optional
+460107,Male,Yes,48,Yes,Engineer,1,Average,5,Hyundai Santro Xing GLS
+460108,Male,Yes,39,Yes,Artist,1,Average,3,Ford Figo Diesel ZXI
+460109,Male,Yes,50,Yes,Artist,8,Average,2,Hyundai Grand i10 1.2 CRDi Asta
+460110,Female,No,46,Yes,Artist,1,Low,2,Datsun GO A
+460112,Male,Yes,26,Yes,Engineer,8,Average,2,Toyota Etios Liva GD
+460116,Female,Yes,42,Yes,,1,Low,2,Mahindra Xylo E4 BS III
+460118,Female,Yes,36,Yes,Artist,4,Low,2,Volkswagen Vento Diesel Highline
+460119,Male,No,29,Yes,Healthcare,1,Low,4,Hyundai Grand i10 1.2 CRDi Asta
+460122,Female,No,39,No,Artist,1,Low,1,Hyundai i20 Asta (o)
+460124,Female,No,41,Yes,Artist,0,Low,3,Datsun GO A
+460126,Female,Yes,48,Yes,Marketing,8,Low,,Toyota Corolla Altis 1.8 VL CVT
+460134,Male,Yes,40,Yes,Entertainment,9,High,3,Renault Duster 110PS Diesel RxZ
+460135,Female,No,25,Yes,Healthcare,4,Low,3,Maruti 800 Std
+460140,Female,Yes,41,Yes,Artist,7,Low,2,Hyundai EON Magna Plus
+460141,Male,No,37,Yes,Artist,11,Low,1,Maruti S-Cross Facelift
+460144,Female,No,53,Yes,Doctor,0,Low,,Maruti Zen Estilo VXI BSIV
+460146,Female,Yes,51,Yes,Engineer,0,Average,3,Fiat Avventura Urban Cross 1.3 Multijet Emotion
+460147,Male,Yes,73,Yes,Entertainment,1,Average,3,Maruti Ertiga VXI ABS
+460157,Male,Yes,61,No,,1,Low,5,Skoda Rapid 1.5 TDI AT Style BSIV
+460160,Male,No,39,Yes,Entertainment,5,Low,1,Honda Brio 1.2 E MT
+460162,Female,No,19,No,Healthcare,0,Low,4,Volkswagen Polo Petrol Comfortline 1.2L
+460166,Female,No,19,No,Healthcare,0,Low,7,Maruti Alto LXi
+460167,Female,No,23,No,Entertainment,1,Low,5,Volkswagen Vento Celeste 1.5 TDI Highline AT
+460168,Male,Yes,83,Yes,Executive,0,High,2,Hyundai EON D Lite Plus
+460171,Female,Yes,62,Yes,Artist,1,High,2,Maruti Swift VXI BSIV
+460174,Female,No,43,Yes,Artist,9,Low,4,Tata Tiago 1.2 Revotron XZ
+460175,Female,No,27,No,Artist,0,Low,5,Maruti Wagon R VXI
+460177,Male,No,50,Yes,Artist,0,Low,1,Toyota Innova 2.5 G (Diesel) 7 Seater
+460179,Female,No,23,No,Entertainment,0,Low,6,Maruti Wagon R VXI BS IV
+460183,Male,No,35,No,Entertainment,9,Low,2,Mahindra Scorpio REV 116
+460185,Male,No,32,No,Healthcare,9,Low,3,Volvo V40 D3 R Design
+460187,Female,No,42,Yes,Doctor,2,Low,3,Renault KWID 1.0 RXT Optional
+460189,Male,No,33,No,Entertainment,13,Low,1,Chevrolet Sail 1.2 LT ABS
+460190,Female,No,28,Yes,Entertainment,9,Low,3,Tata Tiago NRG Petrol
+460192,Male,Yes,35,Yes,,1,Low,2,Maruti 800 Std BSII
+460196,Female,No,35,Yes,Healthcare,9,Low,2,Volkswagen Polo Diesel Trendline 1.2L
+460206,Female,Yes,39,Yes,Entertainment,0,Low,2,Mahindra XUV500 W11 Option AWD
+460211,Male,Yes,28,,Artist,6,Low,1,Chevrolet Tavera Neo 3 LS 7 C BSIII
+460212,Male,Yes,35,Yes,Entertainment,11,Low,6,Honda Brio 1.2 E MT
+460214,Female,Yes,45,Yes,Engineer,0,Average,2,Jaguar XJ 5.0 L V8 Supercharged
+460222,Female,,73,Yes,Lawyer,4,High,,Tata Bolt Quadrajet XE
+460223,Male,No,52,No,Entertainment,1,Low,1,Maruti Wagon R DUO LPG
+460227,Male,No,28,No,Healthcare,0,Low,3,Hyundai Santro GLS I - Euro I
+460242,Male,Yes,38,Yes,Healthcare,9,Low,3,Maruti Alto LXi BSIII
+460243,Female,No,42,Yes,Entertainment,8,Low,1,Ford Fiesta Classic 1.4 SXI Duratorq
+460247,Female,No,26,No,Doctor,9,Low,,Maruti Alto K10 VXI
+460248,Female,No,27,Yes,Healthcare,7,Low,2,Mercedes-Benz E-Class E 200 CGI Elegance
+460252,Male,Yes,41,Yes,Artist,0,Low,2,Chevrolet Tavera Neo 3 LS 7 C BSIII
+460263,Male,Yes,41,Yes,Artist,1,Low,2,Maruti 800 Std BSII
+460265,Male,Yes,47,Yes,Executive,0,High,4,Hyundai i10 Sportz 1.2
+460270,Male,No,35,Yes,Doctor,8,Low,1,Hyundai Santro Magna BSIV
+460272,Female,No,88,Yes,Lawyer,0,Low,1,Mahindra Scorpio LX
+460275,Female,No,46,Yes,Artist,6,Low,1,Chevrolet Tavera Neo LS B3 - 7(C) seats BSIII
+460276,Female,Yes,41,Yes,Artist,3,Low,2,Mahindra Scorpio S11 BSIV
+460281,Female,No,30,Yes,Doctor,10,Low,5,Maruti Swift VXI BSIII
+460283,Male,Yes,43,Yes,Doctor,12,Low,2,Mahindra Marazzo M8 8Str
+460284,Female,No,29,Yes,Entertainment,9,Low,2,Tata Indica Vista Terra 1.4 TDI
+460287,Male,Yes,48,Yes,Artist,1,Low,1,Hyundai EON LPG Magna Plus
+460289,Female,Yes,61,Yes,Artist,4,Average,6,Datsun GO Plus T Option Petrol
+460298,Female,No,51,Yes,Lawyer,2,Low,1,Toyota Innova 2.5 GX (Diesel) 8 Seater
+460303,Female,No,38,Yes,Artist,2,Low,1,Hyundai Creta 1.4 CRDi S
+460305,Female,,49,Yes,Entertainment,0,High,1,Skoda Rapid 1.5 TDI Ambition BSIV
+460306,Female,No,43,Yes,Healthcare,9,Low,1,Mercedes-Benz New C-Class C 220 CDI Avantgarde
+460310,Male,No,27,No,Healthcare,14,Low,4,Renault Duster 85PS Diesel RxE
+460315,Female,No,35,No,Doctor,14,Low,6,Maruti Swift 1.3 VXi
+460319,Female,Yes,39,No,Doctor,4,Average,2,Ford Endeavour 2.5L 4X2 MT
+460322,Female,Yes,52,No,Engineer,9,Low,,Mercedes-Benz S-Class S 350d Connoisseurs Edition
+460323,Female,No,38,Yes,Engineer,10,Low,1,Chevrolet Beat Diesel
+460324,Female,No,30,Yes,Entertainment,12,Low,2,Tata Indigo Grand Petrol
+460327,Female,No,43,Yes,Artist,10,Low,1,Maruti Ertiga VXI
+460333,Female,No,42,No,Entertainment,10,Low,4,#N/A
+460336,Female,No,46,Yes,Artist,2,Low,1,Chevrolet Tavera Neo 3 LS 7 C BSIII
+460340,Female,No,47,Yes,Artist,11,Low,2,Volkswagen Jetta 2.0 TDI Trendline
+460341,Female,No,32,No,Entertainment,13,Low,5,Hyundai Verna 1.6 SX CRDi (O)
+460344,Female,Yes,53,Yes,Artist,11,Average,2,Chevrolet Tavera Neo 3 10 Seats BSIV
+460346,Female,Yes,43,Yes,Artist,12,Average,,Hyundai Grand i10 CRDi Magna
+460348,Female,No,39,Yes,Artist,0,Low,2,Tata New Safari DICOR 2.2 EX 4x2
+460349,Male,,42,Yes,Artist,3,Average,2,Volvo V40 D3 R Design
+460354,Female,No,37,Yes,Artist,3,Low,1,Toyota Etios GD
+460356,Male,No,19,No,Healthcare,0,Low,4,Chevrolet Beat Diesel
+460358,Male,No,30,No,Marketing,1,Low,1,Renault KWID RXT
+460361,Female,Yes,49,Yes,Artist,0,Low,1,Mahindra Xylo D2 BSIV
+460362,Male,Yes,55,Yes,Healthcare,0,Low,3,Maruti Alto 800 LXI
+460365,Female,Yes,59,Yes,Doctor,1,Low,2,Maruti Alto K10 VXI Airbag
+460369,Female,Yes,46,Yes,Artist,,Low,2,Hyundai i20 Sportz Petrol
+460370,Female,Yes,27,Yes,Executive,9,High,2,Hyundai Creta 1.6 CRDi SX
+460371,Female,No,25,Yes,Artist,1,Low,2,Maruti Zen LXi BSII
+460378,Female,No,37,Yes,Doctor,1,Low,1,Jaguar XJ 5.0 L V8 Supercharged
+460379,Male,No,38,Yes,Artist,9,Low,3,BMW 7 Series 730Ld
+460380,Male,No,29,Yes,Entertainment,9,Low,3,Maruti 800 AC BSII
+460381,Male,No,28,Yes,Artist,11,Low,2,Volkswagen Vento Diesel Highline
+460384,Female,Yes,27,Yes,Marketing,8,Low,2,Chevrolet Beat Diesel
+460387,Female,No,42,No,Entertainment,3,Low,2,Toyota Innova 2.5 G (Diesel) 8 Seater BS IV
+460388,Female,No,43,Yes,Artist,14,Low,2,Maruti Swift 1.3 VXi
+460389,Female,Yes,40,Yes,Healthcare,8,Average,2,Tata Bolt Quadrajet XE
+460390,Male,No,41,Yes,Artist,9,Low,3,Hyundai Grand i10 Magna
+460392,Male,Yes,46,No,Entertainment,8,Low,1,Tata Indigo Grand Petrol
+460394,Female,No,32,Yes,Healthcare,9,Low,3,Volkswagen Jetta 2.0 TDI Trendline
+460397,Female,No,56,Yes,Entertainment,1,Low,1,Mahindra Scorpio 1.99 S6 Plus
+460399,Male,No,28,Yes,Marketing,12,Low,1,Hyundai i10 Era 1.1
+460401,Female,No,25,Yes,Artist,0,Low,3,Hyundai Grand i10 Sportz
+460404,Male,Yes,42,Yes,Artist,6,Low,7,Tata Indigo CS Emax CNG GLX
+460405,Female,No,41,Yes,Entertainment,5,Low,2,Ford Endeavour 2.5L 4X2 MT
+460406,Male,Yes,36,Yes,Healthcare,3,Low,2,Hyundai Santro GLS I - Euro I
+460408,Female,No,42,Yes,Artist,2,Low,1,Mahindra Bolero SLX
+460409,Female,No,42,Yes,Artist,8,Low,4,Jeep Compass 1.4 Sport Plus BSIV
+460415,Female,No,55,Yes,Entertainment,1,Low,2,Ford Figo Diesel Celebration Edition
+460422,Male,Yes,52,Yes,Entertainment,1,High,,Chevrolet Tavera Neo 2 LS B4 7 Str BSIII
+460431,Female,No,47,Yes,Engineer,1,Low,1,Mercedes-Benz New C-Class C 220 CDI BE Avantgare
+460434,Male,,57,Yes,Artist,2,High,3,Tata Zest Revotron 1.2 XT
+460437,Female,No,26,Yes,Artist,8,Low,1,Maruti Swift VXI BSIII
+460440,Female,No,28,No,Artist,5,Low,2,Honda Brio 1.2 E MT
+460443,Female,No,37,Yes,Doctor,0,Low,1,Tata Indica Vista Quadrajet LS
+460447,Male,,89,No,Lawyer,0,Low,1,Maruti Ertiga VXI
+460449,Male,No,25,No,Marketing,2,Low,1,Volkswagen Vento Diesel Highline
+460450,Male,Yes,50,Yes,Executive,1,High,4,Honda Accord 2.4 MT
+460453,Female,No,42,Yes,Doctor,5,Low,1,Chevrolet Sail Hatchback LS ABS
+460454,Male,No,48,Yes,Artist,,Low,1,Hyundai Verna 1.6 SX CRDi (O)
+460457,Female,No,37,Yes,Entertainment,9,Low,,Chevrolet Tavera Neo 3 LS 7 C BSIII
+460459,Female,No,30,No,Engineer,1,Low,5,Hyundai Creta 1.6 SX Option
+460460,Male,Yes,26,No,Entertainment,2,Low,4,Maruti Wagon R VXI BS IV
+460467,Female,Yes,47,Yes,Artist,,Average,2,Toyota Innova Crysta 2.4 VX MT
+460470,Male,No,36,No,Healthcare,,Low,4,Maruti Baleno Alpha 1.3
+460476,Male,Yes,53,No,Doctor,,Average,4,Tata Indica Vista Terra 1.4 TDI
+460477,Male,No,30,No,Entertainment,1,Low,6,Ford Endeavour 4x4 XLT
+460484,Female,No,20,No,Healthcare,4,Low,7,#N/A
+460485,Female,No,19,No,Marketing,8,Low,5,Hyundai Grand i10 Magna
+460489,Male,No,19,No,Healthcare,9,Low,6,Mercedes-Benz New C-Class C 220 CDI BE Avantgare
+460492,Female,No,37,No,Marketing,12,Low,,Volkswagen Polo Diesel Trendline 1.2L
+460495,Male,No,20,No,Healthcare,0,Low,6,Toyota Corolla Altis 1.8 VL CVT
+460504,Male,,39,No,Executive,,Average,3,Skoda Rapid 1.6 MPI Ambition With Alloy Wheel
+460505,Female,No,26,Yes,Engineer,1,Low,3,Honda Brio E MT
+460507,Male,No,31,No,Doctor,0,Low,4,Chevrolet Tavera Neo 3 10 Seats BSIV
+460508,Male,Yes,31,Yes,Healthcare,2,High,3,Hyundai EON Magna Plus
+460518,Female,Yes,41,Yes,Engineer,9,Average,3,Toyota Innova 2.5 G (Diesel) 8 Seater BS IV
+460522,Female,Yes,32,No,Homemaker,,Average,2,Toyota Innova 2.5 VX (Diesel) 8 Seater
+460541,Female,Yes,42,Yes,Homemaker,0,Average,3,Hyundai i10 Sportz 1.2
+460542,Female,Yes,89,No,Lawyer,1,Low,,BMW 7 Series 730Ld
+460545,Male,Yes,78,No,Lawyer,1,High,3,Hyundai Verna 1.6 VTVT AT S Option
+460546,Female,Yes,65,Yes,Lawyer,1,Low,2,Maruti Ertiga BSIV ZXI
+460547,Female,Yes,48,Yes,Homemaker,0,Average,,Toyota Etios Liva GD
+460549,Male,No,36,Yes,Artist,8,Low,2,Hyundai i20 1.2 Asta
+460550,Female,Yes,55,Yes,Artist,0,Average,4,Hyundai Creta 1.6 SX Option
+460551,Male,Yes,52,Yes,Engineer,0,Average,2,Maruti Swift 1.3 VXi
+460555,Male,Yes,52,Yes,Homemaker,7,Average,3,Toyota Innova 2.5 G (Diesel) 7 Seater
+460556,Female,Yes,41,Yes,,1,Low,1,Volkswagen Vento Celeste 1.5 TDI Highline AT
+460558,Female,Yes,36,Yes,Engineer,,Low,1,Maruti Omni MPI STD BSIV
+460561,Female,No,37,No,Engineer,7,Low,1,Maruti Omni E MPI STD BS IV
+460563,Female,No,40,No,Healthcare,1,Low,2,Maruti Omni MPI STD BSIV
+460566,Male,Yes,38,Yes,Homemaker,,Average,2,Maruti Alto K10 VXI Airbag
+460571,Male,No,25,No,Doctor,0,Low,3,Ford Endeavour 4x4 XLT
+460572,Female,No,33,Yes,Engineer,1,Low,4,Hyundai Grand i10 Magna
+460574,Male,No,26,Yes,Artist,1,Low,1,Skoda Rapid 1.5 TDI Ambition BSIV
+460582,Female,No,28,No,Entertainment,0,Low,1,Maruti Alto K10 VXI
+460583,Male,No,18,No,Marketing,0,Low,6,Maruti Vitara Brezza ZDi Plus
+460585,Male,No,52,No,Entertainment,0,Low,3,Maruti Swift Dzire VDI Optional
+460586,Male,No,26,Yes,Healthcare,0,Low,2,Maruti Swift Glam
+460588,Male,No,18,No,Healthcare,0,Low,4,Mahindra KUV 100 D75 K2
+460597,Female,No,20,No,Marketing,1,Low,2,Hyundai Verna 1.6 VTVT AT S Option
+460598,Female,Yes,36,Yes,Doctor,0,Average,3,Tata Bolt Quadrajet XE
+460605,Male,Yes,27,Yes,Doctor,8,Average,2,Hyundai EON LPG Magna Plus
